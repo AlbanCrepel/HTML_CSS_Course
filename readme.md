@@ -52,7 +52,7 @@
 
 *VIDEOS*
 - [https://coverr.co/](https://coverr.co/)
-- [http://mitchmartinez.com/free-4k-red-epic-stock-footage/](http://mitchmartinez.com/free-4k-red-epic-stock-footage/)*
+- [http://mitchmartinez.com/free-4k-red-epic-stock-footage/](http://mitchmartinez.com/free-4k-red-epic-stock-footage/)
 
 *SOUNDS*
 - [Facebook sound collection](https://www.facebook.com/creator/studio/?reference=redirect_from_sound_collection&tab=sound_collection&context_id=0&collection_id=all_pages&sound_collection_tab=sound_tracks)
