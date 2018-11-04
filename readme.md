@@ -47,7 +47,8 @@
 
 ## Tips
 
-- [little UI details](https://twitter.com/i/moments/880688233641848832)
+- [little UI details](https://twitter.com/i/moments/880688233641848832) :hearts:
+- [VSCode extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
 
 ## Free stock
 
