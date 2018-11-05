@@ -53,3 +53,7 @@ body {
 #other-solution .line:nth-child(even) div:nth-child(even) {
     background-color: black;
 }
+
+#other-solution .line div {
+    border: solid 1px black;
+}
