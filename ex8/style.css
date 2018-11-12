@@ -1,0 +1,26 @@
+div{
+    border:2px solid black;
+    height:30px;
+    margin:10px 0;
+}
+#two{
+    border-style:dotted;
+}
+#three{
+    border-style:dashed;
+}
+#four{
+    border-style:double;
+}
+#five{
+    border-style:groove;
+}
+#six{
+    border-style:ridge;
+}
+#seven{
+    border-style:inset;
+}
+#height{
+    border-style:outset;
+}

@@ -1,0 +1,38 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+
+html, body, main {
+    width:100%;
+    height: 100%;
+}
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px 50px;
+}
+
+th {
+    color: orange;
+    font-weight:bold;
+}
+
+td {
+    border : solid 1px black;
+    text-align:center;
+}
+
+tr td:not(:first-child) {
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+}

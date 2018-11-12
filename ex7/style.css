@@ -1,0 +1,42 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+
+html, body, main {
+    width:100%;
+    height: 100%;
+}
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.wrapper {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+.wrapper div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    color:white;
+    font-weight: bold;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
